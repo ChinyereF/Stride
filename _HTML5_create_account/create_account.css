@@ -1,0 +1,397 @@
+/*
+	@name create_account
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px; width: 375px; height: 812px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__create_account {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(255,255,255,1);
+}
+
+#button_l {
+	top: 507px;
+	left: 24px;
+	width: 327px;
+	height: 50px;
+}
+
+#rectangle_45 {
+	top: 0px;
+	left: 0px;
+	width: 327px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(40,40,40,1);
+}
+
+
+#label {
+	top: 15px;
+	left: 104px;
+	width: 126px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 15px;
+	text-align: center;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+#frame_428 {
+	top: 67px;
+	left: 37px;
+	width: 301px;
+	height: 83px;
+}
+
+#header {
+	top: 0px;
+	left: 61.5px;
+	width: 187px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Darker Grotesque;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#paragraph {
+	top: 43px;
+	left: -2px;
+	width: 313px;
+	height: 50px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 14px;
+	text-align: center;
+	line-height: 20px;
+	color:#5B5A5A;
+}
+
+#input_form {
+	top: 201px;
+	left: 24px;
+	width: 327px;
+	height: 78px;
+}
+
+#input_your_name {
+	top: 0px;
+	left: 0px;
+	width: 76px;
+	height: 30px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 14px;
+	text-align: left;
+	line-height: 20px;
+	color:#2C3131;
+}
+
+#frame_11 {
+	top: 28px;
+	left: 0px;
+	width: 327px;
+	height: 50px;
+}
+
+#input_placeholder {
+	top: 14.5px;
+	left: 24px;
+	width: 298px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Darker Grotesque;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#A8A8A8;
+}
+
+#input_form_ek1 {
+	top: 295px;
+	left: 24px;
+	width: 327px;
+	height: 78px;
+}
+
+#input_your_name_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 83px;
+	height: 30px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 14px;
+	text-align: left;
+	line-height: 20px;
+	color:#2C3131;
+}
+
+#frame_11_ek1 {
+	top: 28px;
+	left: 0px;
+	width: 327px;
+	height: 50px;
+}
+
+#input_placeholder_ek1 {
+	top: 14.5px;
+	left: 24px;
+	width: 298px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Darker Grotesque;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#A8A8A8;
+}
+
+#input_form_ek2 {
+	top: 389px;
+	left: 24px;
+	width: 327px;
+	height: 78px;
+}
+
+#input_your_name_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 139px;
+	height: 30px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 14px;
+	text-align: left;
+	line-height: 20px;
+	color:#2C3131;
+}
+
+#frame_11_ek2 {
+	top: 28px;
+	left: 0px;
+	width: 327px;
+	height: 50px;
+}
+
+#input_placeholder_ek2 {
+	top: 14.5px;
+	left: 24px;
+	width: 298px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Darker Grotesque;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#A8A8A8;
+}
+
+
+#already_have_an_account_ {
+	top: 0px;
+	left: -3px;
+	width: 207px;
+	height: 35px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#8B8B8B;
+}
+
+
+#log_in {
+	top: 0px;
+	left: 197px;
+	width: 60px;
+	height: 35px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#FB6138;
+}
+
+#vuesax_linear_eye_slash {
+	top: 336px;
+	left: 304px;
+	width: 24px;
+	height: 24px;
+}
+#eye_slash {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector {
+	top: 8px;
+	left: 8px;
+	width: 6.11px;
+	height: 6.11px;
+}
+
+
+#vector_ek1 {
+	top: 4px;
+	left: 2px;
+	width: 15.6px;
+	height: 14.04px;
+}
+
+
+#vector_ek2 {
+	top: 8px;
+	left: 8px;
+	width: 13.37px;
+	height: 12.34px;
+}
+
+
+#vector_ek3 {
+	top: 13px;
+	left: 13px;
+	width: 2.82px;
+	height: 2.82px;
+}
+
+
+#vector_ek4 {
+	top: 15px;
+	left: 2px;
+	width: 7.47px;
+	height: 7.47px;
+}
+
+
+#vector_ek5 {
+	top: 2px;
+	left: 15px;
+	width: 7.47px;
+	height: 7.47px;
+}
+
+
+#vector_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+#vuesax_linear_eye_slash_ek1 {
+	top: 430px;
+	left: 304px;
+	width: 24px;
+	height: 24px;
+}
+#eye_slash_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek7 {
+	top: 8px;
+	left: 8px;
+	width: 6.11px;
+	height: 6.11px;
+}
+
+
+#vector_ek8 {
+	top: 4px;
+	left: 2px;
+	width: 15.6px;
+	height: 14.04px;
+}
+
+
+#vector_ek9 {
+	top: 8px;
+	left: 8px;
+	width: 13.37px;
+	height: 12.34px;
+}
+
+
+#vector_ek10 {
+	top: 13px;
+	left: 13px;
+	width: 2.82px;
+	height: 2.82px;
+}
+
+
+#vector_ek11 {
+	top: 15px;
+	left: 2px;
+	width: 7.47px;
+	height: 7.47px;
+}
+
+
+#vector_ek12 {
+	top: 2px;
+	left: 15px;
+	width: 7.47px;
+	height: 7.47px;
+}
+
+
+#vector_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+#iconly_light_outline_arrow___left_2 {
+	top: 71px;
+	left: 24px;
+	width: 24px;
+	height: 24px;
+}
+#arrow___left_2 {
+	top: 8px;
+	left: 4px;
+	width: 15.5px;
+	height: 8.5px;
+}
+
+#stroke_1 {
+	top: 0px;
+	left: 0px;
+	width: 15.5px;
+	height: 8.5px;
+}
+
+
+
+/* Add your custom CSS here */
