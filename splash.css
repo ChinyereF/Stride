@@ -1,0 +1,39 @@
+/*
+	@name splash
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px; width: 375px; height: 812px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#__bg__splash {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(251,97,56,1);
+}
+
+#logo {
+	top: 362px;
+	left: 139px;
+	width: 98px;
+	height: 88.28px;
+}
+
+#vector1 {
+	top: 0px;
+	left: 0.81px;
+	width: 97.71px;
+	height: 71.83px;
+}
+
+
+
+/* Add your custom CSS here */

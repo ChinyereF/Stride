@@ -1,5 +1,5 @@
 /*
-	@name calendar
+	@name updates
 */
 /* Only edit this if you know what you are doing! */
 body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
@@ -12,7 +12,7 @@ div { position: absolute; }
 
 #content-container { display: block; position: relative; width: 375px; width: 375px; height: 812px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
 
-#_bg__calendar {
+#_bg__updates {
 	top: 0px;
 	left: 0px;
 	width: 375px;
@@ -133,7 +133,7 @@ div { position: absolute; }
 
 
 #shield_with_lock {
-	top: -10px;
+	top: 24px;
 	left: 17px;
 	width: 27.95px;
 	height: 34.17px;
@@ -237,7 +237,7 @@ div { position: absolute; }
 
 
 #shield_with_lock_ek1 {
-	top: -10px;
+	top: 24px;
 	left: 16px;
 	width: 27.95px;
 	height: 34.17px;

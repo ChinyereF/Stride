@@ -1,0 +1,147 @@
+/*
+	@name onboarding_5
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px; width: 375px; height: 812px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#__bg__onboarding_5 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(255,255,255,1);
+}
+
+#carousel_indicator {
+	top: 580px;
+	left: 168px;
+	width: 40px;
+	height: 6px;
+}
+#frame_12 {
+	top: 0px;
+	left: 0px;
+	width: 14px;
+	height: 6px;
+}
+
+#ellipse_18 {
+	top: 0px;
+	left: 21px;
+	width: 6px;
+	height: 6px;
+	-ms-border-radius: 3px / 3px;
+	-o-border-radius: 3px / 3px;
+	-moz-border-radius: 3px / 3px;
+	-webkit-border-radius: 3px / 3px;
+	border-radius: 3px / 3px;
+	background:rgba(217,217,217,1);
+}
+
+
+#ellipse_19 {
+	top: 0px;
+	left: 34px;
+	width: 6px;
+	height: 6px;
+	-ms-border-radius: 3px / 3px;
+	-o-border-radius: 3px / 3px;
+	-moz-border-radius: 3px / 3px;
+	-webkit-border-radius: 3px / 3px;
+	border-radius: 3px / 3px;
+	background:rgba(217,217,217,1);
+}
+
+
+#_skip {
+	top: 709px;
+	left: 47px;
+	width: 47px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: center;
+	color:#8B8B8B;
+}
+
+#onboarding_copy {
+	top: 410px;
+	left: 38px;
+	width: 312px;
+	height: 113px;
+}
+
+#header {
+	top: 0px;
+	left: 22px;
+	width: 277px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Darker Grotesque;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#1E1E1E;
+}
+
+
+#paragraph {
+	top: 53px;
+	left: -2px;
+	width: 324px;
+	height: 70px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 14px;
+	text-align: center;
+	line-height: 20px;
+	color:#5B5A5A;
+}
+
+#primary_button_cls_a {
+	top: 696px;
+	left: 230px;
+	width: 120px;
+	height: 50px;
+	position: absolute;
+}
+#auto_layout_button {
+	top: 0px;
+	left: 0px;
+	width: 120px;
+	height: 50px;
+}
+
+#label {
+	top: 15px;
+	left: 40px;
+	width: 47px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 15px;
+	text-align: center;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#searching {
+	top: 95px;
+	left: 48px;
+	width: 280px;
+	height: 280px;
+}
+
+
+
+/* Add your custom CSS here */
