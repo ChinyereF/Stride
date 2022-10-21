@@ -10,8 +10,7 @@ img { position: absolute; display: block; margin: 0px; border: none; padding: 0p
 /* Only edit this if you know what you are doing! */
 div { position: absolute; }
 
-#content-container {  border: #6D7175 3px solid;
-	border-radius: 24px; display: block; position: relative; width: 375px; width: 375px; height: 812px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+#content-container { display: block; position: relative; width: 375px; width: 375px; height: 812px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
 
 #__bg__splash {
 	top: 0px;
@@ -28,7 +27,7 @@ div { position: absolute; }
 	height: 88.28px;
 }
 
-#vector1 {
+#vector {
 	top: 0px;
 	left: 0.81px;
 	width: 97.71px;
