@@ -5817,7 +5817,7 @@ div { position: absolute; }
 
 #itohan_ighodaro_ek2 {
 	top: 21px;
-	left: -3px;
+	left: -9px;
 	width: 138px;
 	height: 35px;
 	overflow: hidden;
@@ -5846,7 +5846,7 @@ div { position: absolute; }
 	top: 23px;
 	left: 3px;
 	width: 328px;
-	height: 156px;
+	height: 148px;
 	-ms-border-radius: 12px;
 	-o-border-radius: 12px;
 	-moz-border-radius: 12px;
@@ -5855,11 +5855,26 @@ div { position: absolute; }
 	background:rgba(71,165,218,1);
 }
 
+#rectangle_ek2 {
+	top: 0px;
+	left: 100px;
+	width: 500px;
+	height: 36px;
+	align-content: center;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:#ffffff;
+}
+
 #button_ek2 {
 	top: 133px;
 	left: 118px;
 	width: 100px;
 	height: 36px;
+	
 }
 
 #create_an_account {
@@ -5875,6 +5890,7 @@ div { position: absolute; }
 	margin-top: -2.4406666755676px;
 	height: 45px;
 	color:#FFFFFF;
+	background-color: #282828;
 }
 
 #class_details {
@@ -6065,25 +6081,29 @@ div { position: absolute; }
 }
 
 #button_ek3 {
-	top: 133px;
+	top: 130px;
 	left: 118px;
 	width: 100px;
 	height: 36px;
+	background-color: #282828;
+	border-radius: 10px;
+	padding-top: 5px;
+	text-align: center;
 }
 
 #create_an_account_ek1 {
 	top: 7.5px;
 	left: 21px;
-	width: 66px;
-	height: 31px;
+	width: 58px;
+	height: 20px;
 	overflow: hidden;
 	font-family: SF Pro Display;
 	font-size: 14px;
-	text-align: center;
 	line-height: 21.322000026703px;
-	margin-top: -2.4406666755676px;
-	height: 45px;
+	margin-top: 2.4406666755676px;
+	height: 40px;
 	color:#FFFFFF;
+	
 }
 
 #class_details_ek1 {
@@ -6264,7 +6284,7 @@ div { position: absolute; }
 	top: 23px;
 	left: 3px;
 	width: 328px;
-	height: 156px;
+	height: 148px;
 	-ms-border-radius: 12px;
 	-o-border-radius: 12px;
 	-moz-border-radius: 12px;
